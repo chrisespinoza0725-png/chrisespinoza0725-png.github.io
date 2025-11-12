@@ -57,7 +57,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Santa Ana College - Pursuing A.S.-T Biology + A.S. Chemistry + A.A.-T Political Science | A&F Co. Key Lead + RSCCD MESA Tutor
+    description: .
   experience:
     title: Experiences
     icon: fas fa-briefcase
